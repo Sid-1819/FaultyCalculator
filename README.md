@@ -1,4 +1,4 @@
-**# Faulty Calculator **
+** Faulty Calculator **
 
 **Don't trust this calculator! It's intentionally designed to produce incorrect results. **
 
